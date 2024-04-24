@@ -1,0 +1,41 @@
+.one{
+  background-color:rgb(147, 194, 236);
+  height: 900px;
+}
+.open{
+  padding-left: 40px;
+}
+.abc{
+  font-size:100px;
+}
+.opp{
+  background-color:blueviolet;
+  color:azure;
+  height: 100px;
+  padding: 7%;
+}
+.two{
+  margin-top: 10px;
+border:2px solid;
+background-color: darkgrey;
+width:220px;
+height: 130px;
+margin-left: 20px;
+}
+
+.ten{
+ padding-left: 900px;
+ margin-top: 0%;
+ border:2px solid;
+ width:10px;
+}
+.obb img{
+
+  padding: 2%;
+}
+
+.are{
+margin-top: 30px;
+}
+
+
