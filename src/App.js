@@ -22,7 +22,7 @@ function App(){
     </Col>
     <Col sm={10}>
     <Routes>
-<Route path='/' exact Component={Dashboard}/>
+<Route path='/react1' exact Component={Dashboard}/>
 <Route path='/about' exact Component={About}/>
 <Route path='/Purchasing' exact Component={Purchasing}/>
 <Route path='/Inventory' exact Component={Inventory}/>

@@ -20,7 +20,7 @@ function App() {
       
         <p><LogoDevIcon/>LOGO</p>
         
-       <Link to='/'><center><p className='opp'>  <DashboardIcon/> Dashboards </p></center></Link>
+       <Link to='/react1'><center><p className='opp'>  <DashboardIcon/> Dashboards </p></center></Link>
         <Link to='/about'><p> <MonetizationOnIcon/> Sales distribution</p></Link><br/>
         <Link to='/Purchasing'><p> <ShoppingCartIcon/>  Purchasing</p></Link><br/>
         <Link to='/Inventory'><p> <InventoryIcon/>  Inventory</p></Link><br/>
